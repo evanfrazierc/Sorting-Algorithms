@@ -12,10 +12,6 @@ public:
 	void merge(T*, int, int, T*);
 private:
 	int size;
-	/*T* mLeft;
-	T* mRight;
-	int qLeft;
-	int qRight;*/
 };
 
 template <class T>
