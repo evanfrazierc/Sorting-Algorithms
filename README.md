@@ -40,25 +40,42 @@ either of these files in your code submission, though you may invoke their
 functions (and #include them).
 
 Algorithm: SelectionSort
+
 Input: data: the items to sort (must be comparable)
+
 Input: n: the number of elements in items
+
 Output: permutation of items such that data[0] ≤ . . . ≤ data[n − 1]
 
+
 Algorithm: InsertionSort
+
 Input: data: the data to sort (must be comparable)
+
 Input: n: the number of elements in data
+
 Output: permutation of data such that data[0] ≤ . . . ≤ data[n − 1]
 
+
 Algorithm: MergeSort
+
 Input: data: the data to sort (must be comparable)
+
 Input: n: the number of elements in data
+
 Input: temp: temporary array of size n for use during MergeSort
+
 Output: a permutation of data such that data[0] ≤ . . . ≤ data[n − 1]
 
+
 Algorithm: QuickSort
+
 Input: data: the data to sort (must be comparable)
+
 Input: n: the number of elements in data
+
 Output: permutation of data such that data[1] ≤ . . . ≤ data[n]
+
 
 
 
